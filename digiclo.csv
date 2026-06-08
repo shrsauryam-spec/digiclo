@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1","1","10uF","","","","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
+"J1","1","Conn_01x02_Pin","","","","Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical",""
+"J3,J4","2","Conn_01x02","","","","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
+"R1","1","22","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""
+"U1","1","WEMOS_D1_mini","","","","RF_Module:WEMOS_D1_mini_light","https://wiki.wemos.cc/products:d1:d1_mini#documentation"
+"U2","1","358","","","","footprints:MODULE_358",""
