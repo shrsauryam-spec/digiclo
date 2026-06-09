@@ -1,4 +1,6 @@
 # <p align="center">DigiClo</p>
+<p align="center"><img width="487" height="340" alt="image" src="https://github.com/user-attachments/assets/9cd9dde0-83b7-4d4b-ba1f-ed901227dda4" /></p>
+
 
 <p align="center">A Digital Clock with Date, Day, Temperature, and Alarm System using NodeMCU ESP8266</p>
 
