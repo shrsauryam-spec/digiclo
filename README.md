@@ -20,6 +20,9 @@ I do not usually use my phone, so the only way for me to know the time is with a
 3. LiPo Rechargeable Battery 2000 mAh 3.7V
 4. TP4056 Charging Module with Protection
 
+## You can find the public 3d document of OnShape below:
+https://cad.onshape.com/documents/623138c9b77e6759b0f10c27/w/bd2dd186e4136b7dcbcb23ae/e/b7a90ecbf7c3d132e3466b38
+
 ## PCB
 Designed in KiCad. The PCB design is simple and has zero errors.
 
